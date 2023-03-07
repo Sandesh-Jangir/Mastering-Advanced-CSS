@@ -1,2 +1,2 @@
 # Mastering-Advanced-CSS
-In this repository I will be uploading some mini projects. In which each will be focusing on a particular CSS property.
+This repo consists of mini CSS projects, each one of which foucuses on one particualr CSS property. This helps in understanding the concepts in a particular manner.
